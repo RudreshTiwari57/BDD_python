@@ -1,0 +1,386 @@
+2023-08-16 10:31:48,014 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:33:22,877 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:33:24,434 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:33:24,456 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:33:24,619 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:33:25,379 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:33:25,392 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:33:25,635 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:33:25,860 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:33:26,096 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:33:26,260 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:33:26,393 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:33:26,570 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:33:26,830 - already_registered_email_steps.py:[83] - [INFO] - user enters first address
+2023-08-16 10:33:27,042 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:33:27,258 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:33:27,533 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:33:28,139 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:33:28,356 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:33:28,562 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:33:28,791 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:33:28,984 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:33:29,175 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:33:29,227 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:33:30,049 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:33:30,128 - already_registered_email_steps.py:[149] - [INFO] - user gets mail already registered error message
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:41,133 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:53,104 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,363 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,380 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:55,495 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,253 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,262 - already_registered_email_steps.py:[43] - [INFO] - verify user is on registration page
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,424 - already_registered_email_steps.py:[49] - [INFO] - user enters first name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,609 - already_registered_email_steps.py:[54] - [INFO] - user enters last name
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,773 - already_registered_email_steps.py:[59] - [INFO] - user enters Email
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:56,922 - already_registered_email_steps.py:[65] - [INFO] - user enters telephone
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,081 - already_registered_email_steps.py:[71] - [INFO] - user enters fax
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,213 - already_registered_email_steps.py:[77] - [INFO] - user enters first name
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,387 - already_registered_email_steps.py:[90] - [INFO] - user enters second address
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,541 - already_registered_email_steps.py:[96] - [INFO] - user enters city
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:57,764 - already_registered_email_steps.py:[102] - [INFO] - user selects country 
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,107 - already_registered_email_steps.py:[107] - [INFO] - user selects state
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,271 - already_registered_email_steps.py:[112] - [INFO] - user enters ZIP code
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,437 - already_registered_email_steps.py:[117] - [INFO] - user enters login name
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,595 - already_registered_email_steps.py:[122] - [INFO] - user enters password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,771 - already_registered_email_steps.py:[128] - [INFO] - user enters confirm password
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,948 - already_registered_email_steps.py:[134] - [INFO] - user checks the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:58,989 - already_registered_email_steps.py:[139] - [INFO] - verify user check the check box
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,679 - already_registered_email_steps.py:[144] - [INFO] - click on continue button
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 10:45:59,757 - empty_address_step.py:[11] - [INFO] - verify user gets empty address error message
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:03,609 - already_registered_email_steps.py:[14] - [INFO] - You are on home page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,374 - already_registered_email_steps.py:[19] - [INFO] - You nagivate to login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,407 - already_registered_email_steps.py:[25] - [INFO] - verify user is on login page
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:05,642 - already_registered_email_steps.py:[31] - [INFO] - user click on register account radio button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
+2023-08-16 11:00:06,435 - already_registered_email_steps.py:[37] - [INFO] - clicks on continue button
